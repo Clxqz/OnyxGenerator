@@ -1,0 +1,7 @@
+F:\SLNS\OnyxGenerator\OnyxGenerator\bin\Debug\OnyxGenerator.exe.config
+F:\SLNS\OnyxGenerator\OnyxGenerator\bin\Debug\OnyxGenerator.exe
+F:\SLNS\OnyxGenerator\OnyxGenerator\bin\Debug\OnyxGenerator.pdb
+F:\SLNS\OnyxGenerator\OnyxGenerator\obj\Debug\OnyxGenerator.csprojAssemblyReference.cache
+F:\SLNS\OnyxGenerator\OnyxGenerator\obj\Debug\OnyxGenerator.csproj.CoreCompileInputs.cache
+F:\SLNS\OnyxGenerator\OnyxGenerator\obj\Debug\OnyxGenerator.exe
+F:\SLNS\OnyxGenerator\OnyxGenerator\obj\Debug\OnyxGenerator.pdb
